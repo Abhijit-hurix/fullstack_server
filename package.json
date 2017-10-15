@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Abhijit Mitra <abhijit.mitra@hurix.com> (https://hurix.com)",
+  "author": "Abhijit Mitra <abhijitmitra.in@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
